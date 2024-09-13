@@ -10,8 +10,11 @@ Amazon Sales Data Dashboard Creation
 
 Welcome to the Amazon Sales Data Dashboard Creation assignment! In this task, you will work with a sample Amazon sales dataset to create a comprehensive dashboard that provides insights into sales performance.
 
-**Dataset Download:**
+**Amazon Dataset Download:**
 https://docs.google.com/spreadsheets/d/1_e3d3zHffEmtc6LAgPVIC5MdQKNksw8a/edit?usp=sharing&ouid=116595391062089857654&rtpof=true&sd=true
+
+**Amazon Data Visualization Dataset Download** 
+https://docs.google.com/spreadsheets/d/13eUPgmPKSmpCs_mHNVRZWTGp98zhBFt_HBd2qOQZy1Q/edit#gid=1209539245
 
 **Instructions**
 
