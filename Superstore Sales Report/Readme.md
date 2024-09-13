@@ -12,6 +12,7 @@ Create a two pages report:
 - Create a map chart to show state wise profit and set the look of the map in a professional theme with label and heading
 - Create a matrix to show region and subcategory wise sales and use conditional format to highlight lowest to highest sales in any colour of your choice
 - Create a subcategory slicer to show interaction between the charts
+
 **In analysis 2 page, create the following:**
 
 - Create a gauge chart to show actual sales vs target sales which is 5 % increase from actual sales
