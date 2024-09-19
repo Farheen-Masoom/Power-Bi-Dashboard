@@ -81,13 +81,4 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 
 - Define proper KPIs
 - Create a dashboard for the retention manager reflecting the KPIs
-- Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
-
-## Tools
-
-<p style="float:left">
-<img src="./Icons/powerpoint.png" height="50" alt="PowerPoint" title="PowerPoint">
-<img src="./Icons/power-bi-icon.png" height="50" alt="Power BI" title="Power BI">
-</p>
-<div style="clear:both"></div>
-
+- Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed.
